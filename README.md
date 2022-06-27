@@ -12,3 +12,5 @@
 |                               AVL Tree                               |                                                                                                              |      /       |
 |                                Graph                                 |                                                                                                              |      /       |
 
+
+Linked List Practice: [LINK](https://github.com/minhsun-c/Data-Structure/tree/main/Linked%20List%20with%20Class/Practice)
