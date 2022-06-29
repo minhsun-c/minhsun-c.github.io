@@ -12,7 +12,7 @@
 | [Binary Search Tree II - Add Nodes]() |  ```void BST::insert(int)``` ```void BST::insert(Node *, int)```                                                                                                       |      /       |
 | [Binary Search Tree III - Traversal]() | ```void BST::Preorder(Node *)```<br> ```void BST::Inorder(Node *)``` ```void BST::Postorder(Node *)```                                                                                                   |      /       |
 | [Binary Search Tree IV - Functions]() |  ```int BST::getValue(Node *, Node *);```<br> ```Node *BST::getPtr(Node *, int);``` <br> ```int BST::getMaxValue(Node *);``` ```Node *BST::getMaxPtr(Node *);``` <br> ```int BST::getMinValue(Node *);``` ```Node *BST::getMinPtr(Node *);```  |      /       |
-| [Binary Search Tree V - Delete Node]() | ```void BST::remove(Node *, int)```                                                                                                       |      /       |
+| [Binary Search Tree V - Delete Node]() | ```void BST::remove(Node *, int)```  <br> ```int BST::removeMax(Node *)``` ```int BST::removeMin(Node *)```                                                                                                   |      /       |
 | [AVL Tree]() |                                                                                                              |      /       |
 | [Binary Heap]() |                                                                                                              |      /       |
 | [B Tree]() |                                                                                                              |      /       |
